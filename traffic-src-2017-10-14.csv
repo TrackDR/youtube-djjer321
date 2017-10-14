@@ -1,0 +1,779 @@
+date,country_name,country_id,traffic_source,channel_display_name,channel_id,watch_time_minutes,views,average_view_duration
+2017-09-15,Argentina,AR,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-15,Argentina,AR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,4,0.8
+2017-09-15,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,3,3.1
+2017-09-15,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.7
+2017-09-15,Costa Rica,CR,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-15,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-15,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-15,Hong Kong,HK,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-15,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-15,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,4,0.8
+2017-09-15,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,5,1.0
+2017-09-15,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.5
+2017-09-15,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.4
+2017-09-15,Mexico,MX,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-15,Netherlands,NL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-15,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-15,Portugal,PT,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,2,6.6
+2017-09-15,Turkey,TR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-15,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,4.8
+2017-09-15,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-15,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.1
+2017-09-15,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,25,8,3.1
+2017-09-15,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,7.9
+2017-09-16,Argentina,AR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-16,Czechia,CZ,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-16,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,1.9
+2017-09-16,France,FR,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,25,1,25.4
+2017-09-16,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,3,2.5
+2017-09-16,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,2,3.7
+2017-09-16,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-16,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,2,1.0
+2017-09-16,India,IN,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-16,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,1,12.9
+2017-09-16,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,4,1.6
+2017-09-16,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.5
+2017-09-16,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,4,1.6
+2017-09-16,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.3
+2017-09-16,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-16,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,4,0.4
+2017-09-16,Sweden,SE,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-16,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-16,Thailand,TH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,8.0
+2017-09-16,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.0
+2017-09-16,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,5,3.2
+2017-09-16,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,4,0.5
+2017-09-16,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-09-16,Venezuela,VE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-16,Vietnam,VN,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-17,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-17,Canada,CA,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,26,2,13.2
+2017-09-17,Switzerland,CH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,7.3
+2017-09-17,Chile,CL,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-17,Germany,DE,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-17,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-09-17,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,2,6.7
+2017-09-17,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-17,Germany,DE,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-17,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-17,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.5
+2017-09-17,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-17,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,4,2.0
+2017-09-17,Hungary,HU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.5
+2017-09-17,Italy,IT,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-17,Japan,JP,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,44,2,21.8
+2017-09-17,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.6
+2017-09-17,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,2,4.9
+2017-09-17,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,12,3,3.9
+2017-09-17,Japan,JP,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-17,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,12,4,2.9
+2017-09-17,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-09-17,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,3,2.5
+2017-09-17,Poland,PL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.3
+2017-09-17,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,4,0.7
+2017-09-17,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.4
+2017-09-17,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,14,2,6.9
+2017-09-17,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.3
+2017-09-18,Belgium,BE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-18,Brazil,BR,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-09-18,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.6
+2017-09-18,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-18,Ecuador,EC,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-18,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.7
+2017-09-18,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-18,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.0
+2017-09-18,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,1,13.4
+2017-09-18,France,FR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.2
+2017-09-18,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-18,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-18,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.3
+2017-09-18,Ireland,IE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.3
+2017-09-18,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-18,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-09-18,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,20,5,4.1
+2017-09-18,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,3,0.1
+2017-09-18,Macau,MO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-09-18,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,2,1.0
+2017-09-18,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-09-18,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-18,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,9.4
+2017-09-18,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-09-18,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-09-19,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.4
+2017-09-19,Belgium,BE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-19,Bulgaria,BG,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.3
+2017-09-19,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.8
+2017-09-19,Chile,CL,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-19,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-19,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-19,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-19,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-19,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-19,South Korea,KR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-19,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-09-19,Netherlands,NL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-19,Peru,PE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-19,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-19,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-19,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-19,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.6
+2017-09-19,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.5
+2017-09-19,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-09-20,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.5
+2017-09-20,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-09-20,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.2
+2017-09-20,Colombia,CO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-09-20,Czechia,CZ,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-20,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-20,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-20,France,FR,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-20,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-09-20,Croatia,HR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-20,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.4
+2017-09-20,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,53,1,53.4
+2017-09-20,South Korea,KR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-20,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,9.0
+2017-09-20,Peru,PE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.9
+2017-09-20,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-20,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-20,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-20,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-20,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.0
+2017-09-20,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-20,Venezuela,VE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.4
+2017-09-21,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-21,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,2,5.5
+2017-09-21,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,6.7
+2017-09-21,Chile,CL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-21,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-21,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-21,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.6
+2017-09-21,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,20,1,19.8
+2017-09-21,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.3
+2017-09-21,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.7
+2017-09-21,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,2,4.8
+2017-09-21,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-21,Thailand,TH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,8.6
+2017-09-21,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-21,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.5
+2017-09-21,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,4,0.4
+2017-09-21,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-21,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-09-22,United Arab Emirates,AE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-22,Austria,AT,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.2
+2017-09-22,Australia,AU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-22,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-22,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-22,Brazil,BR,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.3
+2017-09-22,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.6
+2017-09-22,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.9
+2017-09-22,Colombia,CO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-09-22,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.7
+2017-09-22,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-09-22,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,5,0.4
+2017-09-22,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-09-22,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-22,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-22,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-09-22,South Korea,KR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-22,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-09-22,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.5
+2017-09-22,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.3
+2017-09-22,Thailand,TH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-22,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-22,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,1,16.2
+2017-09-22,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.7
+2017-09-22,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,5,2.2
+2017-09-22,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,20,4,5.1
+2017-09-22,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-22,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,9,0.9
+2017-09-22,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-23,Argentina,AR,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,8.0
+2017-09-23,Argentina,AR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.0
+2017-09-23,Argentina,AR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-23,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-09-23,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.2
+2017-09-23,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,3,2.8
+2017-09-23,Switzerland,CH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-23,Colombia,CO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.0
+2017-09-23,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-23,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,2,3.6
+2017-09-23,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,4,1.9
+2017-09-23,Hungary,HU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.9
+2017-09-23,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-23,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.6
+2017-09-23,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,8,0.2
+2017-09-23,Morocco,MA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-09-23,Taiwan,TW,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-23,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.5
+2017-09-23,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-23,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-09-23,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.2
+2017-09-23,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,14,6,2.3
+2017-09-23,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,5,2.0
+2017-09-23,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.3
+2017-09-24,United Arab Emirates,AE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-09-24,Argentina,AR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-24,Argentina,AR,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-09-24,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,1.8
+2017-09-24,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.5
+2017-09-24,Brazil,BR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-24,Chile,CL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-24,Colombia,CO,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-09-24,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-24,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-09-24,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-24,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.3
+2017-09-24,Hungary,HU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-24,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,8,1.1
+2017-09-24,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-24,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,3,0.9
+2017-09-24,Mexico,MX,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-24,Malaysia,MY,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-24,Poland,PL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-09-24,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-24,Taiwan,TW,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.0
+2017-09-24,Taiwan,TW,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,1,10.5
+2017-09-24,Taiwan,TW,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,2,1.2
+2017-09-24,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-09-24,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.4
+2017-09-24,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,5,1.1
+2017-09-24,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,7,1.4
+2017-09-24,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,6,0.8
+2017-09-24,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.2
+2017-09-25,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-09-25,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-25,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-25,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-09-25,Chile,CL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-25,Germany,DE,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-25,Germany,DE,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.6
+2017-09-25,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-09-25,Spain,ES,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,3,2.4
+2017-09-25,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.5
+2017-09-25,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-25,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-09-25,Hong Kong,HK,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-25,Hong Kong,HK,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-25,Ireland,IE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-09-25,Israel,IL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.9
+2017-09-25,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-25,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-09-25,Japan,JP,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-25,Macau,MO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-25,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-25,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.3
+2017-09-25,Peru,PE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-25,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-25,Sweden,SE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.2
+2017-09-25,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.3
+2017-09-25,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,41,4,10.2
+2017-09-25,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,5,0.9
+2017-09-25,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,5,1.0
+2017-09-25,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-25,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,18,8,2.2
+2017-09-25,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,13,0.3
+2017-09-25,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,3,0.1
+2017-09-26,Australia,AU,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-26,Australia,AU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,24,3,8.1
+2017-09-26,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-26,Chile,CL,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-26,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,1,10.9
+2017-09-26,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.3
+2017-09-26,France,FR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.6
+2017-09-26,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-26,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,8,1.0
+2017-09-26,Hungary,HU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-26,Indonesia,ID,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.2
+2017-09-26,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-26,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.2
+2017-09-26,Mexico,MX,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-26,Malaysia,MY,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,1,15.7
+2017-09-26,Philippines,PH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-09-26,Russia,RU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-26,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.8
+2017-09-26,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-26,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,2,1.6
+2017-09-26,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,2,3.7
+2017-09-26,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-26,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,4,1.1
+2017-09-26,Unknown Region,ZZ,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.0
+2017-09-27,Australia,AU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-27,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,7.0
+2017-09-27,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.5
+2017-09-27,Canada,CA,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.3
+2017-09-27,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.0
+2017-09-27,Germany,DE,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-27,Germany,DE,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-27,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.4
+2017-09-27,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-27,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-27,Finland,FI,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-27,France,FR,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-09-27,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-27,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,4,1.8
+2017-09-27,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-27,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,4,1.4
+2017-09-27,Laos,LA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-27,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,12,2,6.0
+2017-09-27,Malaysia,MY,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,29,1,29.0
+2017-09-27,Netherlands,NL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,2,3.7
+2017-09-27,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-27,Serbia,RS,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-27,Sweden,SE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.7
+2017-09-27,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-27,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-09-27,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,15,4,3.8
+2017-09-27,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,5,0.3
+2017-09-27,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.1
+2017-09-27,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,4,0.4
+2017-09-27,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-27,United States,US,End screens,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-27,Vietnam,VN,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-28,United Arab Emirates,AE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-28,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-28,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.5
+2017-09-28,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,1.9
+2017-09-28,Canada,CA,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,3,0.6
+2017-09-28,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,3,0.6
+2017-09-28,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,17,1,17.2
+2017-09-28,Switzerland,CH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.3
+2017-09-28,Colombia,CO,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-28,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-28,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.6
+2017-09-28,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.7
+2017-09-28,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-09-28,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,1.9
+2017-09-28,Hong Kong,HK,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.2
+2017-09-28,Indonesia,ID,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.5
+2017-09-28,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.9
+2017-09-28,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.1
+2017-09-28,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-09-28,South Korea,KR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.5
+2017-09-28,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-28,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-28,Russia,RU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.2
+2017-09-28,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.6
+2017-09-28,Taiwan,TW,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-09-28,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,40,6,6.6
+2017-09-28,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.1
+2017-09-28,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,4,0.3
+2017-09-29,Australia,AU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.5
+2017-09-29,Brazil,BR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-09-29,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-09-29,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,2,3.3
+2017-09-29,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-09-29,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-29,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,6,0.2
+2017-09-29,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-09-29,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,21,4,5.3
+2017-09-29,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-09-29,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-09-29,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-29,Italy,IT,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-09-29,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-29,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,3,0.1
+2017-09-29,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-29,South Korea,KR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-29,Kuwait,KW,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.5
+2017-09-29,Macau,MO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-09-29,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.4
+2017-09-29,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-29,Malaysia,MY,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-09-29,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-29,Singapore,SG,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.1
+2017-09-29,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-09-29,Thailand,TH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,3,0.1
+2017-09-29,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-29,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,21,1,20.8
+2017-09-29,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,52,2,25.9
+2017-09-29,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,35,9,3.9
+2017-09-29,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-09-29,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,6,1.0
+2017-09-29,Vietnam,VN,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-30,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,2,1.0
+2017-09-30,Canada,CA,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,5,1.7
+2017-09-30,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-09-30,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.3
+2017-09-30,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-30,Germany,DE,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-09-30,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-09-30,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-09-30,Denmark,DK,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,1,16.0
+2017-09-30,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,4,0.4
+2017-09-30,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-09-30,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.3
+2017-09-30,France,FR,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-09-30,France,FR,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-30,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,2,5.7
+2017-09-30,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-30,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.4
+2017-09-30,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,2,4.1
+2017-09-30,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,2,1.4
+2017-09-30,Indonesia,ID,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.6
+2017-09-30,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-30,Japan,JP,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,23,1,23.5
+2017-09-30,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,4,1.2
+2017-09-30,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-30,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-09-30,Mexico,MX,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-30,Netherlands,NL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-09-30,Philippines,PH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.1
+2017-09-30,Philippines,PH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-09-30,Romania,RO,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-09-30,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.9
+2017-09-30,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.5
+2017-09-30,Taiwan,TW,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-09-30,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,12,1,12.1
+2017-09-30,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,140,9,15.6
+2017-09-30,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,4,2.3
+2017-09-30,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,2,6.6
+2017-09-30,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,5,1.2
+2017-09-30,Vietnam,VN,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.7
+2017-10-01,Argentina,AR,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-01,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.0
+2017-10-01,Brazil,BR,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-10-01,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,35,3,11.5
+2017-10-01,Canada,CA,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,4,0.4
+2017-10-01,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-10-01,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-10-01,CuraÃ§ao,CW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-01,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,24,3,7.9
+2017-10-01,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-01,France,FR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.3
+2017-10-01,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,17,2,8.6
+2017-10-01,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,6,0.1
+2017-10-01,Indonesia,ID,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.4
+2017-10-01,Indonesia,ID,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-01,Italy,IT,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.7
+2017-10-01,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.6
+2017-10-01,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-01,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.2
+2017-10-01,Mexico,MX,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,9.0
+2017-10-01,Netherlands,NL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-01,Russia,RU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,1,12.7
+2017-10-01,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,7.5
+2017-10-01,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-10-01,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.7
+2017-10-01,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-01,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,5,1.9
+2017-10-01,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,3,0.8
+2017-10-01,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.2
+2017-10-01,Vietnam,VN,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,2,4.1
+2017-10-02,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,2,3.6
+2017-10-02,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-10-02,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-02,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.3
+2017-10-02,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,2,7.8
+2017-10-02,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-10-02,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-02,France,FR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-02,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-02,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,8,1.3
+2017-10-02,Italy,IT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,4.6
+2017-10-02,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-02,Macau,MO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.9
+2017-10-02,Mexico,MX,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.2
+2017-10-02,Netherlands,NL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-02,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-02,RÃ©union,RE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-02,Sweden,SE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-02,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-10-02,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,48,2,24.0
+2017-10-02,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,2,1.1
+2017-10-02,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,12,3,4.0
+2017-10-02,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-02,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,25,3,8.5
+2017-10-03,Argentina,AR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-10-03,Australia,AU,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,2,5.7
+2017-10-03,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,15,3,5.2
+2017-10-03,Belgium,BE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-03,Brazil,BR,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-03,Brazil,BR,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-03,Brazil,BR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.0
+2017-10-03,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.0
+2017-10-03,Brazil,BR,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-03,Costa Rica,CR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-03,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,3,0.9
+2017-10-03,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.8
+2017-10-03,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-10-03,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.9
+2017-10-03,Finland,FI,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-03,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.9
+2017-10-03,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-03,Guatemala,GT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.9
+2017-10-03,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,3,0.7
+2017-10-03,Italy,IT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,8.1
+2017-10-03,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-10-03,Malaysia,MY,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-03,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.3
+2017-10-03,Singapore,SG,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.1
+2017-10-03,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-03,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,17,3,5.8
+2017-10-03,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,78,2,38.8
+2017-10-03,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,45,4,11.2
+2017-10-03,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.5
+2017-10-03,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,48,5,9.7
+2017-10-03,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.5
+2017-10-03,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,18,3,5.9
+2017-10-03,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,40,2,20.2
+2017-10-03,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-04,Argentina,AR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-04,Australia,AU,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-04,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,3,1.6
+2017-10-04,Canada,CA,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,6,0.1
+2017-10-04,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,26,2,12.9
+2017-10-04,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-04,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,8.2
+2017-10-04,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,2,2.4
+2017-10-04,Germany,DE,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.5
+2017-10-04,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.1
+2017-10-04,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-04,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.7
+2017-10-04,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,5,0.4
+2017-10-04,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-10-04,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-10-04,Indonesia,ID,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-04,Indonesia,ID,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-10-04,Ireland,IE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-04,Italy,IT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-10-04,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,9,0.7
+2017-10-04,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,23,6,3.9
+2017-10-04,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,3,1.0
+2017-10-04,New Zealand,NZ,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-10-04,Philippines,PH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,3,1.9
+2017-10-04,Philippines,PH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-04,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-04,Sweden,SE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-04,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,7.2
+2017-10-04,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,9.4
+2017-10-04,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-10-04,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,29,8,3.7
+2017-10-04,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-04,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,4,0.3
+2017-10-04,United States,US,End screens,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,41,1,41.4
+2017-10-05,Argentina,AR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-05,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-10-05,Belgium,BE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-05,Brazil,BR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-05,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.8
+2017-10-05,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-10-05,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,2.7
+2017-10-05,Greece,GR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-05,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,3,0.6
+2017-10-05,Italy,IT,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-05,Jamaica,JM,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-05,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,2,1.7
+2017-10-05,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,8.8
+2017-10-05,Sweden,SE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-05,Sweden,SE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-05,Singapore,SG,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.0
+2017-10-05,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.7
+2017-10-05,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,4.8
+2017-10-05,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-05,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-10-05,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,23,6,3.8
+2017-10-05,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,59,10,5.9
+2017-10-05,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,73,4,18.3
+2017-10-05,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-10-05,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.4
+2017-10-06,Argentina,AR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.9
+2017-10-06,Austria,AT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-06,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-10-06,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-10-06,Chile,CL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,15,1,14.5
+2017-10-06,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-06,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-06,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-06,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,2,1.1
+2017-10-06,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-06,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-10-06,Italy,IT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,2,4.8
+2017-10-06,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-10-06,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,5,0.8
+2017-10-06,South Korea,KR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-06,Macau,MO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-10-06,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.8
+2017-10-06,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,3,4.5
+2017-10-06,Romania,RO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-06,Saudi Arabia,SA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-06,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-06,Taiwan,TW,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-06,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,77,10,7.7
+2017-10-06,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.7
+2017-10-06,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.4
+2017-10-06,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-10-06,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-07,United Arab Emirates,AE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-07,Brazil,BR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-10-07,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.3
+2017-10-07,Canada,CA,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,2,4.2
+2017-10-07,Chile,CL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-07,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-10-07,Germany,DE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-07,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-07,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-07,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.7
+2017-10-07,Guatemala,GT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.4
+2017-10-07,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-10-07,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.2
+2017-10-07,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-07,South Korea,KR,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.4
+2017-10-07,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,5,3.3
+2017-10-07,Norway,NO,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,6.6
+2017-10-07,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.0
+2017-10-07,RÃ©union,RE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.4
+2017-10-07,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,14,1,14.4
+2017-10-07,Trinidad & Tobago,TT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,8.3
+2017-10-07,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,2,5.0
+2017-10-07,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,3,2.0
+2017-10-07,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,42,2,20.8
+2017-10-07,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-07,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,16,8,2.0
+2017-10-07,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,24,5,4.7
+2017-10-07,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.7
+2017-10-08,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.9
+2017-10-08,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.2
+2017-10-08,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-08,Switzerland,CH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-10-08,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,3,3.3
+2017-10-08,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.1
+2017-10-08,France,FR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,6.0
+2017-10-08,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-08,Guatemala,GT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-08,Hong Kong,HK,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-08,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.2
+2017-10-08,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.5
+2017-10-08,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,5,0.6
+2017-10-08,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,1.6
+2017-10-08,South Korea,KR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-08,Netherlands,NL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.7
+2017-10-08,Serbia,RS,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-10-08,Thailand,TH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-10-08,Trinidad & Tobago,TT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-08,United States,US,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.4
+2017-10-08,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,17,2,8.7
+2017-10-08,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,2,1.5
+2017-10-08,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,6,0.6
+2017-10-08,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,66,5,13.2
+2017-10-08,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,3,1.0
+2017-10-08,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,5,1.8
+2017-10-09,Australia,AU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-09,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.2
+2017-10-09,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,3,1.3
+2017-10-09,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,2,2.1
+2017-10-09,Canada,CA,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-09,Chile,CL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,4.2
+2017-10-09,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,6,1,5.9
+2017-10-09,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,2,4.2
+2017-10-09,Guatemala,GT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-10-09,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,1,10.6
+2017-10-09,Indonesia,ID,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.3
+2017-10-09,Israel,IL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-09,Italy,IT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-10-09,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,7.4
+2017-10-09,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,3,1.7
+2017-10-09,El Salvador,SV,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-09,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.1
+2017-10-09,Thailand,TH,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-10-09,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,4,2.4
+2017-10-09,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,23,2,11.5
+2017-10-09,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,32,6,5.4
+2017-10-09,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,26,8,3.2
+2017-10-09,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-10-09,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,2,3.9
+2017-10-09,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,52,2,26.1
+2017-10-09,United States,US,Playlist page,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.0
+2017-10-09,Uruguay,UY,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-09,Vietnam,VN,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-09,Vietnam,VN,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.6
+2017-10-09,Vietnam,VN,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,6.9
+2017-10-10,Belgium,BE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.0
+2017-10-10,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,2,4.7
+2017-10-10,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,13,2,6.6
+2017-10-10,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-10,Chile,CL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-10,Germany,DE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-10,Spain,ES,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-10,Spain,ES,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-10,France,FR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.3
+2017-10-10,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-10,Ireland,IE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-10,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-10,Sri Lanka,LK,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-10,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,9,1,9.0
+2017-10-10,Portugal,PT,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,15,2,7.3
+2017-10-10,Trinidad & Tobago,TT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-10,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,40,1,39.8
+2017-10-10,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-10,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,15,5,3.1
+2017-10-10,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,3,2.4
+2017-10-10,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.3
+2017-10-11,Brazil,BR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-11,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.2
+2017-10-11,Canada,CA,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-11,Chile,CL,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.6
+2017-10-11,Chile,CL,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.3
+2017-10-11,Germany,DE,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,1,7.8
+2017-10-11,Spain,ES,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-11,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.8
+2017-10-11,France,FR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-10-11,United Kingdom,GB,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-10-11,United Kingdom,GB,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,8,2,4.1
+2017-10-11,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,36,7,5.1
+2017-10-11,Croatia,HR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,1,2.5
+2017-10-11,Jamaica,JM,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-11,Japan,JP,Direct or unknown,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-11,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,5,1.5
+2017-10-11,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.8
+2017-10-11,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-11,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-10-11,South Korea,KR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-10-11,Mexico,MX,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,24,2,12.1
+2017-10-11,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,3,3.4
+2017-10-11,Netherlands,NL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.5
+2017-10-11,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.2
+2017-10-11,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-11,Taiwan,TW,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-11,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,84,4,20.9
+2017-10-11,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,4,2.8
+2017-10-11,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,2,5,0.4
+2017-10-11,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,60,5,12.0
+2017-10-11,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.5
+2017-10-11,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,10,0.5
+2017-10-11,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,49,10,4.9
+2017-10-12,Argentina,AR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-12,Australia,AU,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,1,3.2
+2017-10-12,Australia,AU,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.4
+2017-10-12,Australia,AU,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-10-12,Brazil,BR,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,4,2.9
+2017-10-12,Brazil,BR,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-12,Canada,CA,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,5,1,5.0
+2017-10-12,France,FR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,7,1,6.7
+2017-10-12,United Kingdom,GB,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-12,Hong Kong,HK,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.4
+2017-10-12,Hong Kong,HK,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-12,India,IN,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,0.5
+2017-10-12,Italy,IT,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,1,1.1
+2017-10-12,Japan,JP,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,2,1.6
+2017-10-12,Japan,JP,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,29,1,29.3
+2017-10-12,Japan,JP,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,3,0.2
+2017-10-12,Japan,JP,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.4
+2017-10-12,South Korea,KR,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.0
+2017-10-12,Mexico,MX,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,10,2,5.2
+2017-10-12,Peru,PE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,4,1,3.8
+2017-10-12,Peru,PE,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-12,Poland,PL,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,3,0.3
+2017-10-12,Thailand,TH,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-12,Thailand,TH,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,1,2,0.6
+2017-10-12,United States,US,Browse features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,41,2,20.3
+2017-10-12,United States,US,Channel pages,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,25,2,12.5
+2017-10-12,United States,US,YouTube search,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,11,6,1.9
+2017-10-12,United States,US,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,3,5,0.6
+2017-10-12,United States,US,Other YouTube features,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
+2017-10-12,United States,US,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,14,4,3.5
+2017-10-12,United States,US,Playlists,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,22,4,5.4
+2017-10-12,United States,US,Notifications,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,2,0.1
+2017-10-12,Venezuela,VE,Suggested videos,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.1
+2017-10-12,Vietnam,VN,External,DJ Jer321,iNsuNSvJNnWLY9kQnwIQgA,0,1,0.2
