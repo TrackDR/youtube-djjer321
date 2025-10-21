@@ -15,7 +15,7 @@ ffmpeg -y -i "in.mp4" -vf "select=not(mod(n\,30))" -vsync vfr -frame_pts 1 "fram
 ```bash
 # this gets bash syntax highlighting
 mkdir -p frames
-ffmpeg -i in.mp4 -vf "select='not(mod(n,30))'" -vsync vfr frames/%06d.png
+ffmpeg -y -i in.mp4 -vf "select='not(mod(n,30))'" -vsync vfr -frame_pts 1 frames/%06d.png
 # extract the FIRST 5 minutes, saving ONE PNG every 30 frames
 ffmpeg -y -i "in.mp4" -t 00:05:00 -vf "select=not(mod(n\,30))" -vsync vfr -frame_pts 1 "frames/frame_%06d.png"
 ```
