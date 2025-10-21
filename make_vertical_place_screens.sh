@@ -4,20 +4,22 @@ set -euo pipefail
 IN="in.mp4"
 OUT="out_1080x1920.mp4"
 FPS=30
-worig=1280; horig=720
 
 # yokai watch 1 and 2
 # Crops measured from your capture (w:h:x:y using inclusive coords resolved already)
 #TOPCROP="crop=834:500:0:0"
 #BOTCROP="crop=444:334:836:386"
+worig=1280; horig=720
 #x1=0;   y1=0;   w1=834; h1=500
 #x2=836; y2=386; w2=$((worig - x2)); h2=$((horig - y2))
 #TOPCROP="crop=$w1:$h1:$x1:$y1"
 #BOTCROP="crop=$w2:$h2:$x2:$y2"
 
+
 # puyo puyo tetris jp
 #TOPCROP="crop=838:500:0:0"
 #BOTCROP="crop=w:h:838:392"
+worig=1280; horig=720
 x1=0;   y1=0;   w1=838; h1=500
 x2=838; y2=392; w2=$((worig - x2)); h2=$((horig - y2))
 TOPCROP="crop=$w1:$h1:$x1:$y1"
@@ -26,6 +28,7 @@ BOTCROP="crop=$w2:$h2:$x2:$y2"
 # mario kart 7 3ds
 #TOPCROP="crop=834:500:0:0"
 #BOTCROP="crop=w:h:836:386"
+worig=1280; horig=720
 x1=0;   y1=0;   w1=834; h1=500
 x2=836; y2=386; w2=$((worig - x2)); h2=$((horig - y2))
 TOPCROP="crop=$w1:$h1:$x1:$y1"
